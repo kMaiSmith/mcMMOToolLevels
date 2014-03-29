@@ -1,0 +1,10 @@
+name: mcMMOToolLevels
+main: com.thatonetechserver.mcmmotoollevels.mcMMOToolLevels
+version: 0.1-SNAPSHOT
+author: Aurifier & kMaiSmith
+depend: [mcMMO]
+description: >
+             Level limits for tools with mcMMO skills.
+permissions:
+  mcmmotoollevels.override:
+    description: Ignore this plugin

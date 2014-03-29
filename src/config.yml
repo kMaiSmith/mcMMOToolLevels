@@ -1,0 +1,61 @@
+tools:
+  STONE_PICKAXE:
+    skill: mining
+    level: 1
+  IRON_PICKAXE:
+    skill: mining
+    level: 5
+  WOOD_PICKAXE:
+    skill: mining
+    level: 0
+  GOLD_PICKAXE:
+    skill: mining
+    level: 10
+  DIAMOND_PICKAXE:
+    skill: mining
+    level: 15
+  WOOD_SHOVEL:
+    skill: excavation
+    level: 0
+  STONE_SHOVEL:
+    skill: excavation
+    level: 1
+  IRON_SHOVEL:
+    skill: excavation
+    level: 5
+  GOLD_SHOVEL:
+    skill: excavation
+    level: 10
+  DIAMOND_SHOVEL:
+    skill: excavation
+    level: 15
+  WOOD_SWORD:
+    skill: swords
+    level: 0
+  STONE_SWORD:
+    skill: swords
+    level: 1
+  IRON_SWORD:
+    skill: swords
+    level: 5
+  GOLD_SWORD:
+    skill: swords
+    level: 10
+  DIAMOND_SWORD:
+    skill: swords
+    level: 15
+  WOOD_AXE:
+    skill: woodcutting
+    level: 0
+  STONE_AXE:
+    skill: woodcutting
+    level: 1
+  IRON_AXE:
+    skill: woodcutting
+    level: 5
+  GOLD_AXE:
+    skill: woodcutting
+    level: 10
+  DIAMOND_AXE:
+    skill: woodcutting
+    level: 15
